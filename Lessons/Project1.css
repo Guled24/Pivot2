@@ -1,0 +1,155 @@
+.Home {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%); transform: translateY(-50%);
+    color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: maroon;
+    height: 100px;
+    width: 100%;
+}
+
+label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+ 
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.content{
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: maroon;
+    height: 100px;
+    width: 100%;
+    margin: 0 5px;
+}
+
+.content {
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: maroon;
+    height: 100px;
+    width: 100%;
+    margin: 0 5px;
+}
+.content a{
+    color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.content li {
+    float: left;
+}
+
+.content1 {
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: maroon;
+    height: 100px;
+    width: 100%;
+    margin: 0 5px;
+}
+.content1 a{
+    color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.content1 li {
+    float: left;
+}
+
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.content2 {
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: maroon;
+    height: 115px;
+    width: 100%;
+    margin: 0 5px;
+}
+
+.content2 a{
+    color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.content2 li {
+    float: left;
+}
+
+#supra {
+    float: left;
+    margin-left: 600px;
+    margin-top: -501px;
+}
+
+#SUPRA {
+    float: left;
+    margin-left: 600px;
+    margin-top: -260.75px;
+}
+
+#RX7 {
+    float: right;
+    margin-left: 600px;
+    margin-top: -537px;
+    margin-right: 100px;
+}
+
+
+#rx7 {
+    float: right;
+    margin-left: 600px;
+    margin-top: -297px;
+    margin-right: 115px;
+    clear: none;
+}
+
+#R34{
+    margin-top: 10px;
+}
